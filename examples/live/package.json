@@ -1,0 +1,16 @@
+{
+  "name": "live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leaflet-indoor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christopher Baines",
+  "license": "BSD 2-Clause",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "leaflet": "^1.3.3"
+  }
+}

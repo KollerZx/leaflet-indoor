@@ -14,8 +14,8 @@
     "url": "git+https://github.com/pytek/leaflet-indoor.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Christopher Baines",
+  "license": "BSD 2-Clause",
   "bugs": {
     "url": "https://github.com/pytek/leaflet-indoor/issues"
   },
