@@ -12,6 +12,6 @@
   "dependencies": {
     "jquery": "^3.3.1",
     "leaflet": "^1.3.3",
-    "leaflet-indoor-pytek": "^1.0.0"
+    "leaflet-indoor-pytek": "^1.0.1"
   }
 }
